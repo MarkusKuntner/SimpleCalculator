@@ -11,4 +11,4 @@ dbPlus(x1; x2)<br>
 dBMinus(x1; x2)<br>
 dBMean(x1; x2)<br>
 <br>
-Variables can be defined by using the character '=', all variables are stored in lowerChar()<br>
+Variables can be defined by using the character '=', all variables are stored as lowerChar()<br>
