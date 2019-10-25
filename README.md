@@ -1,9 +1,9 @@
 # SimpleCalculator<br>
 A simple calculator GUI using the Artem Los math expression parser with added dB (sound) functions<br>
 <p align="center">
-  <img src="Screenshot.png" width="300" title="hover text">
-  <img src="Screenshot2.png" width="300" title="hover text">
-  <img src="Screenshot3.png" width="300" title="hover text">
+  <img src="Screenshot.png" width="250" title="hover text">
+  <img src="Screenshot2.png" width="250" title="hover text">
+  <img src="Screenshot3.png" width="250" title="hover text">
 </p>
 
 There are the following sound functions:<br>
