@@ -6,8 +6,12 @@ A simple calculator GUI using the Artem Los math expression parser with added dB
   <img src="Screenshots\Screenshot3.png" width="250" title="hover text">
 </p>
 
+<<<<<<< HEAD
 The GUI can be set to Always on Top. Move the calc by clicking to the area between the Float button and the "result" text box<br> 
 There are the following sound functions:<br>
+=======
+The following sound functions are supported:<br>
+>>>>>>> 83edea9739205ed175a59d3c6c1178056b1b5a89
 dbPlus(x1; x2)<br>
 dBMinus(x1; x2)<br>
 dBMean(x1; x2)<br>
