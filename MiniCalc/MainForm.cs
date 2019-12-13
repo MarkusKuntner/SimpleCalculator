@@ -14,14 +14,6 @@
     You should have received a copy of the GNU General Public License
     along with this program.If not, see<https://www.gnu.org/licenses/>. 
 */
-/*
- * Created by SharpDevelop.
- * User: Markus
- * Date: 28.03.2016
- * Time: 14:57
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
 using System;
 using System.Drawing;
 using System.Windows.Forms;
